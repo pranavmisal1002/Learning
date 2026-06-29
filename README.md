@@ -2,4 +2,4 @@
 
 # 1) Intro To github
 
-## Git pull , push , commit 
+## Git pull , push , commit and solve issues
