@@ -1,1 +1,1 @@
-pull remot repository
+pull remote repo edit and push back
